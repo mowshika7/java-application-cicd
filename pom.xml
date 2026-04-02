@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.lnt.cicd</groupId>
+    <artifactId>student-app</artifactId>
+    <version>1.0</version>
+    <packaging>war</packaging>
+</project>
