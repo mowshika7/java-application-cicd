@@ -177,10 +177,10 @@
                 <h3>Top Attendance Students</h3>
                 <table>
                     <tr><th>Name</th><th>Dept</th><th>Rate</th></tr>
-                    <tr><td>Mowshika</td><td>IT</td><td>93%</td></tr>
-                    <tr><td>Anitha</td><td>IT</td><td>92%</td></tr>
-                    <tr><td>Sowmya</td><td>IT</td><td>91%</td></tr>
-                    <tr><td>Thamarai Selvi</td><td>IT</td><td>90%</td></tr>
+                    <tr><td>Mowshika</td><td>IT</td><td>95%</td></tr>
+                    <tr><td>Anitha</td><td>IT</td><td>94%</td></tr>
+                    <tr><td>Sowmya</td><td>IT</td><td>93%</td></tr>
+                    <tr><td>Thamarai Selvi</td><td>IT</td><td>93%</td></tr>
                 </table>
             </div>
         </div>
