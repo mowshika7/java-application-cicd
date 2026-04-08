@@ -131,7 +131,7 @@
 <body>
 <div class="container">
     <div class="sidebar">
-        <div class="brand">🎓 EduTrack</div>
+        <div class="brand">EduTrack</div>
         <div class="menu-item">Dashboard</div>
         <div class="menu-item active">Student Management</div>
         <div class="menu-item">Analytics</div>
@@ -141,12 +141,12 @@
     <div class="main">
         <div class="topbar">
             <input class="search" type="text" placeholder="Search students..." />
-            <div>Welcome, Mowshika 😊!</div>
+            <div>Welcome, Mowshika!</div>
         </div>
 
         <div class="card">
             <div class="profile">
-                <div class="avatar">👩‍🎓</div>
+                <div class="avatar"></div>
                 <div>
                     <h2>Mowshika R</h2>
                     <p>ID: IT2026 | Dept: Information Technology</p>
