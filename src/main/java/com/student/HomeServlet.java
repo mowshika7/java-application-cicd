@@ -14,6 +14,6 @@ public class HomeServlet extends HttpServlet {
             throws ServletException, IOException {
 
         RequestDispatcher dispatcher = request.getRequestDispatcher("index.jsp");
-        dispatcher.forward(request, response);
+        dispatcher.forward(request, response); 
     }
 }
